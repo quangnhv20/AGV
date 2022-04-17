@@ -77,7 +77,3 @@ To run the robotic arm:
 2. $ rosrun rosserial_python serial_node.py _port:=/dev/ttyUSB0 _baud:=115200
 
 ( Note: You may need to use ttyACM)
-
-For more detail please contact : chanhhoang999x@gmail.com
-
-
