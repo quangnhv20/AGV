@@ -1,10 +1,4 @@
 # Agriculture-autonomous-Robot
-HCMUTE Final-year Project
-
-
-![500px-Hcmute svg](https://user-images.githubusercontent.com/74817103/128142475-49e52521-994c-4fec-9706-0da05d8bb5d7.png)
-
-
 
 This project is developed from Nox-Robot project ( see also :https://github.com/RBinsonB/Nox_robot). 
 
